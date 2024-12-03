@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         DOCKER_CREDENTIALS_ID = 'docker-hub-credentials'
-        DOCKERHUB_USERNAME = 'dockerhub-username'
+        DOCKERHUB_USERNAME = 'gopi93'
         REPO_NAME = 'terralogic-project.git'
     }
 
